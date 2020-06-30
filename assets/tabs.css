@@ -1,0 +1,176 @@
+.maintab-style{
+top: 82px;
+position:absolute;
+}
+
+.tab-content-htmldiv{
+top:135px;
+right:900px;
+width:20%;
+position: absolute
+}
+
+.tab1-content-htmldiv{
+top:135px;
+right:900px;
+width:20%;
+position: absolute
+}
+
+
+.secondslide-content-htmldiv{
+top:135px;
+right:810px;
+width:5%;
+position: absolute
+}
+
+.tab2-second-content-htmldiv{
+top:135px;
+right:820px;
+width:5%;
+position: absolute
+}
+
+.tab2-openclosehigh-content{
+top:135px;
+right:700px;
+width:8%;
+position: absolute
+}
+
+.tab3-content-htmldiv{
+top:90px;
+right:1000px;
+width:8%;
+height : 100px;
+position: absolute
+}
+
+.tab4-content-rollcorr{
+top:80px;
+right:820px;
+width:25%;
+height : 100px;
+position: absolute
+}
+
+.tab4-second-tab{
+top:80px;
+right:750px;
+width:5%;
+position: absolute
+}
+
+.tab4-openclosehigh-content{
+top:80px;
+right:600px;
+width:8%;
+position: absolute
+}
+
+.tab-content-modify{
+height:20px;
+}
+
+.secondtab-first-tab{top:80px;
+right:1015px;
+width:10%;
+position: absolute;
+align-items: center;
+font-size: 15px;
+}
+
+.secondtab-second-tab{top:80px;
+right:1020px;
+width:10%;
+position: absolute;
+align-items: center;
+font-size: 15px;
+}
+
+
+.secondtab-date-tab{top:80px;
+right:5px;
+width:30%;
+position: absolute;
+height : 100px
+}
+
+.para-realizedcorr{
+position: absolute;
+top:120px;
+right :80px;
+font-family: monospace;
+color : #1aa3ff;
+}
+
+.SingleDatePickerInput {
+  border: 2px;
+}
+
+.DateInput_input, .DateInput_input_1 {
+  width: 110%;
+  height: 40px;
+}
+
+.figure-display{
+top:200px;
+right:150px;
+position: absolute;
+}
+
+
+.figure-display-second{
+top:550px;
+right:500px;
+position: absolute;
+}
+
+.tab4-figure-display{
+top:160px;
+right:140px;
+position: absolute;
+}
+
+.tab5-figure-display{
+top:160px;
+right:150px;
+position: absolute;
+}
+
+.tabs-generate-correlation-open{
+top:130px;
+right:750px;
+padding: 0;
+position: absolute;
+}
+
+.tabs-generate-correlation-close{
+top:130px;
+right:280px;
+padding: 0;
+position: absolute;
+}
+
+.tabs-generate-correlation-high{
+top:470px;
+right:750px;
+padding: 0;
+margin:0;
+position: absolute;
+}
+
+.tabs-generate-correlation-low{
+top:470px;
+right:280px;
+padding: 0;
+position: absolute;
+}
+
+.tab_style{
+width:12%;
+height: 15%;
+align-items: center;
+justify-content: center;
+}
